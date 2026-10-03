@@ -7,3 +7,4 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXpwMDd2MThhNTl4MGxzaHZrcGdnY2o2MDg5MmtwYnpmOTU5bTc1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eoVusT7Pi9ODe/giphy.gif" width="250">
 </p>
+[![Fatma's GitHub stats](https://github-stats-extended.vercel.app/api?username=fatmali)](https://github.com/stats-organization/github-stats-extended)
